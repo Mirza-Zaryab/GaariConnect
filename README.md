@@ -1,3 +1,7 @@
+### `Gari Connect`
+GariConnect is a car rental service in Pakistan. They offer a variety of cars to rent, from 7-seaters to luxury vehicles.  They also provide 24/7 customer support. People who own cars can also list their car on GariConnect to make money.
+
+
 Run this link -> https://gariconnect.com/ in Chrome. and our Landing page will appear 
 
 <img width="1440" alt="image" src="https://github.com/Mirza-Zaryab/GaariConnect/assets/106264507/a2f32582-2916-4f32-b348-c186e7679d8d">
