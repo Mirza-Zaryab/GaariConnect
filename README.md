@@ -1,8 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 Run this link -> https://gariconnect.com/ in Chrome. and our Landing page will appear 
 
-![1] <img width="1440" alt="image" src="https://github.com/Mirza-Zaryab/GaariConnect/assets/106264507/a2f32582-2916-4f32-b348-c186e7679d8d">
+<img width="1440" alt="image" src="https://github.com/Mirza-Zaryab/GaariConnect/assets/106264507/a2f32582-2916-4f32-b348-c186e7679d8d">
 
 
 ## Available Scripts
